@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Ignore all datasets
-Dataset/
+data/
 
 # Ignore image files generated during training or testing
 *.png
